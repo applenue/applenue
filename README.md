@@ -28,5 +28,7 @@ Hi! my name is Manu but feel free to call me Apple, Currently I am a digital pro
 
 ---
 <p align="center">
-  <img src="https://spotify-readme-qhyd.vercel.app/api/spotify?theme=dark&bg_color=191c20&border_color=ffb6c1&bar_color=ff69b4" alt="Spotify Live Status" />
+  <a href="https://open.spotify.com/user/applenue" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Spotify-Playing%20Music-ff69b4?style=for-the-badge&logo=spotify&logoColor=white&labelColor=253035" alt="Spotify Music" />
+  </a>
 </p>
