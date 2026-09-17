@@ -27,3 +27,6 @@ Hi! my name is Manu but feel free to call me Apple, Currently I am a digital pro
 </p>
 
 ---
+<p align="center">
+  <img src="https://spotify-readme-qhyd.vercel.app/api/spotify?theme=dark&bg_color=191c20&border_color=ffb6c1&bar_color=ff69b4" alt="Spotify Live Status" />
+</p>
